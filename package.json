@@ -1,0 +1,10 @@
+{
+  "name": "startswith",
+  "description": "check if string starts with a certain string, optionally ignoring case",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT",
+  "main": "index.js"
+}
